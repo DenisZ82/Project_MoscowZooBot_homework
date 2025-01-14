@@ -14,5 +14,5 @@
 </ul>
 <h4>Ссылка на бота:</h4>
 <ul>
-        <li>t.me/mos_zoo25_bot</li>
+        <li><a href="https://t.me/mos_zoo25_bot" target="_blank">Daniil</a>t.me/mos_zoo25_bot</li>
 </ul>
